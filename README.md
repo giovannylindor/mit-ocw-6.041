@@ -12,4 +12,7 @@ This repo focuses on the following topics to supplement my foundations in AI/ML:
 - Distributions 
 - Bayes' Theorem
 - Expected Value
-> _This repo is subject to completion, as I may come back to completing the course in preparation for Brooklyn College's course in Probability & Statistics (MATH 2501/3501)
+
+<br>
+
+> _This repo is subject to completion, as I may come back to completing the course in preparation for Brooklyn College's course in Probability & Statistics (MATH 2501/3501)_
