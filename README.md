@@ -14,4 +14,20 @@ This repo focuses on the following topics to supplement my foundations in AI/ML:
 - Expected Value
 
 
+Lectures to Watch: 
+- 1
+- 2
+- 3
+- 5
+- 6
+- 7 
+- 8 
+- 9 
+- 10
+- 21
+
+Chapters to Cover:
+- Ch. 1 - Ch. 6
+- Ch. 8
+
 > _This repo is subject to completion, as I may come back to completing the course in preparation for Brooklyn College's course in Probability & Statistics (MATH 2501/3501)
