@@ -1,0 +1,10 @@
+- [ ] Lecture 1 &rarr; Chapters 1.1-1.2
+- [ ] Lecture 2 &rarr; Chapters 1.3-1.4
+- [ ] Lecture 3 &rarr; Chapter 1.5
+- [ ] Lecture 5 &rarr; Chapters 2.1-2.3
+- [ ] Lecture 6 &rarr; Chapters 2.4-2.5
+- [ ] Lecture 7 &rarr; Chapters 2.6-2.7
+- [ ] Lecture 8 &rarr; Chapters 3.1-3.3
+- [ ] Lecture 9 &rarr; Chapters 3.4-3.5
+- [ ] Lecture 10 &rarr; Chapter 3.6
+- [ ] Lecture 21 &rarr; Chapters 8.1-8.2
